@@ -101,4 +101,4 @@ else
     echo "Error: wp-config-sample.php not found. Skipping configuration."
 fi
 
-echo "WordPress successfully deployed to: $WP_DIR"
+echo -e "${BLUE}WordPress successfully deployed to: $WP_DIR${NC}"
