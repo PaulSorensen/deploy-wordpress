@@ -21,7 +21,7 @@
 # Exit immediately if a command exits with a non-zero status
 set -e
 
-BLUE='\033[0;34m'
+BLUE='\033[38;5;81m'
 NC='\033[0m'
 echo -e "${BLUE}Deploy WordPress by paulsorensen.io${NC}"
 echo ""
