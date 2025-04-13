@@ -1,21 +1,19 @@
 #!/bin/bash
 ################################################################################
-#  Script Name : Deploy Wordpress
-#  Author      : Paul Sørensen
-#  Website     : https://paulsorensen.io
-#  GitHub      : https://github.com/paulsorensen
-#  Version     : 1.0
-#  Last Update : 25.02.2025
+# Script Name   : Deploy Wordpress
+# Author        : Paul Sørensen
+# Website       : https://paulsorensen.io
+# GitHub        : https://github.com/paulsorensen
+# Version       : 1.0
+# Last Modified : 2025/04/14 01:11:10
 #
-#  Description:
-#  Downloads the latest Wordpress, deploys and configures it, ready to use!
+# Description:
+# Downloads the latest Wordpress, deploys and configures it, ready to use!
 #
-#  Usage:
-#  Create MariaDB/MySQL user and database first, then run:
-#  ./deploy-wordpress.sh -d <deployment_directory>
+# Usage: Refer to README.md for details on how to use this script.
 #
-#  If you found this script useful, a small tip is appreciated ❤️
-#  https://buymeacoffee.com/paulsorensen
+# If you found this script useful, a small tip is appreciated ❤️
+# https://buymeacoffee.com/paulsorensen
 ################################################################################
 
 # Exit immediately if a command exits with a non-zero status
